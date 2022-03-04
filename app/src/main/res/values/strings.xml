@@ -1,0 +1,12 @@
+<resources>
+
+    <!--STRINGS TELA SPLASH!-->
+    <string name="app_name">UNESC</string>
+    <string name="tvVersao">Versão 1.0</string>
+
+    <!--STRINGS TELA HOME!-->
+    <string name="hintUSUARIO">Usuário</string>
+    <string name="hintSENHA">Senha</string>
+    <string name="btnENTRAR">ENTRAR</string>
+
+</resources>
