@@ -9,4 +9,11 @@
     <string name="hintSENHA">Senha</string>
     <string name="btnENTRAR">ENTRAR</string>
 
+    <!-- STRINGS TELA SUCESSO!-->
+    <string name="tvCurso">Curso</string>
+    <string name="tvFase">Fase</string>
+    <string name="tvPeriodo">Periodo</string>
+    <string name="tvMatricula">Matricula</string>
+    <string name="btnAvancar">AVANÇAR</string>
+
 </resources>
